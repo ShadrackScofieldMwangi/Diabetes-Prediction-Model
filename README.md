@@ -9,6 +9,7 @@ This project implements a classification model to predict diabetes using patient
 By analyzing key features collected from patients, this tool helps assess whether an individual is likely diabetic or non‑diabetic.
 
 📁 Repository Structure
+
 ├── diabetes.csv                        # Dataset used for training and evaluation
 
 ├── Diabetes Prediction Model.ipynb     # Main Jupyter Notebook
